@@ -2,14 +2,14 @@ Hello! Welcome to my collection of AP-Precalculus notes for the 2024 Spring seme
 
 Feel free to roam around this repository using GitHub's web viewer or follow the instructions below to set up this repository in [Obsidian](https://obsidian.md/).
 
-> GitHub has several issues displaying files and will generally have a less satisfying experience, if you think you'll use this repository a lot or feel like you could contribute to this repository, consider setting it up locally on your computer (MacOS, Windows,Linux only, no ChromeOS).
+> GitHub has several issues displaying files and will generally have a less satisfying experience, if you think you'll use this repository a lot or feel like you could contribute to this repository, consider setting it up locally on your computer (MacOS, Windows, Linux only, no ChromeOS).
 
 Please note I use 'vault' and 'repository' fairly interchangeably.
 - Vault refers to the Obsidian's system of holding and organizing notes together.
 - Repository refers to GitHub's system of holding and organizing files, see the note above.
 
 ##### Repository Layout
--AP-PreCalculus, main directory
+-AP-Precalculus, main directory
 |- Homework, collection of homework problems I personally found to be interesting/couldn't do in my head.
 |- Lessons
 -|- Unit *X*  - holds notes for all lessons in that unit.
