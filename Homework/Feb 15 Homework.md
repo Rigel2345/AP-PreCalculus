@@ -25,7 +25,7 @@ $15.492cm \approx r$
 
 ---
 A dog is attached to a 39-foot rope fastened to the outside corner of a​ fenced-in garden that measures 36 feet by 40 feet. Assuming that the dog cannot enter the​ garden, compute the exact area that the dog can wander.
-![[Pasted image 20240215125324.png]]
+![[Garden.png]]
 Find total area dog can roam:
 $A = \pi*39^2ft$
 $A = \pi1521ft^2$
@@ -34,7 +34,7 @@ Find area of portion not related to the garden
 $A = \pi1521ft^2 * \frac{3}{4}$
 
 For the upper section we can imagine a smaller circle with a radius of 3 at the corner, representing the 3ft of slack on the line at this point
-![[Pasted image 20240215130700.png]]
+![[LeashArea.png]]
 
 Find area of smaller circle
 $A_{small} = \pi3^2ft$
