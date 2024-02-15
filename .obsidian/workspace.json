@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/Unit 6/6.1 Angles, Arc Length, Sectors and Velocity.md",
+                "file": "Homework/Feb 15 Homework.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Unit 6/6.1 Angles, Arc Length, Sectors and Velocity.md",
+                "file": "Homework/Feb 15 Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons/Unit 6/6.1 Angles, Arc Length, Sectors and Velocity.md",
+                "file": "Homework/Feb 15 Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Unit 6/6.1 Angles, Arc Length, Sectors and Velocity.md"
+                "file": "Homework/Feb 15 Homework.md"
               }
             }
           }
@@ -173,15 +173,17 @@
   },
   "active": "952153a7d5bad9d1",
   "lastOpenFiles": [
-    "Homework/Feb 15 Homework.md",
+    "Pasted image 20240215130700.png",
+    "Pasted image 20240215125324.png",
     "Lessons/Unit 6/6.1 Angles, Arc Length, Sectors and Velocity.md",
+    "Homework/Feb 15 Homework.md",
+    "Resources/Cheat Sheet.md",
     "Homework",
     "Resources/Images",
     "Resources/Images/Pasted image 20240215100515.png",
     "Lessons/Unit 6",
     "Lessons",
     "Resources",
-    "Resources/Cheat Sheet.md",
     "Welcome.md"
   ]
 }
