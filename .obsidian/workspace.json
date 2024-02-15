@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/Feb 15 Homework.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,15 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f6dbca48de0f841",
+  "active": "e5da969a3fc9c924",
   "lastOpenFiles": [
-    "Welcome!.md",
-    "README.md",
     "Homework/Feb 15 Homework.md",
+    "Resources/Cheat Sheet.md",
+    "README.md",
+    "Lessons/Unit 6/6.1 Angles, Arc Length, Sectors and Velocity.md",
+    "Welcome!.md",
     "Resources/Images/Pasted image 20240215130700.png",
     "Resources/Images/Pasted image 20240215125324.png",
-    "Lessons/Unit 6/6.1 Angles, Arc Length, Sectors and Velocity.md",
-    "Resources/Cheat Sheet.md",
     "Homework",
     "Resources/Images",
     "Resources/Images/Pasted image 20240215100515.png",

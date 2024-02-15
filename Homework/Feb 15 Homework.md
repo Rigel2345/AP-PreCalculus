@@ -1,5 +1,8 @@
+#homework #practice #trig-practice #trig #Feb15 
 
+Today's lesson: [[6.1 Angles, Arc Length, Sectors and Velocity]]
 
+---
 
 Q24: $A$ denotes the area of the sector of a circle of radius $r$ formed by the central angle $\theta$. Find the missing quantity.
 
@@ -20,7 +23,7 @@ $\sqrt[2]{\frac{(24cm^2)}{\frac{1}{10}rad}} = r$
 $\sqrt[2]{240cm^2} = r$
 $15.492cm \approx r$
 
-
+---
 A dog is attached to a 39-foot rope fastened to the outside corner of a​ fenced-in garden that measures 36 feet by 40 feet. Assuming that the dog cannot enter the​ garden, compute the exact area that the dog can wander.
 ![[Pasted image 20240215125324.png]]
 Find total area dog can roam:

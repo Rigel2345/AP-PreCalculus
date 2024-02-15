@@ -1,6 +1,5 @@
 # Obsidian Cheat Sheet and Shortcut Keys 🔮
 *This repository contains all the basic cheatsheets you need to get started to make notes in obsidian. If something's missing, add yours by raising an issue here ;)*
-![[Pasted image 20240212123829.png]]
 
 https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index
 ### Quick Tips
@@ -20,12 +19,8 @@ For Embeds: Use `![[note name]]` to embed another note in your current note.
 
 ---
 
-<img src="https://i0.wp.com/atoughnut.com/wp-content/uploads/2020/08/Index1.png?resize=768%2C385&ssl=1" alt="Image Description" style="width: 100%;">
-
-
 Word Formatting & Coding Blocks            |  Links, Quotes & Tables
 :-------------------------:|:-------------------------:
-<img src="https://i1.wp.com/atoughnut.com/wp-content/uploads/2020/08/Index2.png?resize=512%2C237&ssl=1" alt="Image Description">  |  <img src="https://i2.wp.com/atoughnut.com/wp-content/uploads/2020/08/Index3.png?resize=512%2C224&ssl=1" alt="Image Description">
 
 ---
 # Markdown Cheat Sheet 💻
