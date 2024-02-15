@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "8f6dbca48de0f841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e5da969a3fc9c924",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/Feb 15 Homework.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/Feb 15 Homework.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/Feb 15 Homework.md"
+                "file": "README.md"
               }
             }
           }
@@ -171,19 +183,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d850d3443815c28",
+  "active": "8f6dbca48de0f841",
   "lastOpenFiles": [
+    "Welcome!.md",
+    "README.md",
+    "Homework/Feb 15 Homework.md",
     "Resources/Images/Pasted image 20240215130700.png",
     "Resources/Images/Pasted image 20240215125324.png",
     "Lessons/Unit 6/6.1 Angles, Arc Length, Sectors and Velocity.md",
-    "Homework/Feb 15 Homework.md",
     "Resources/Cheat Sheet.md",
     "Homework",
     "Resources/Images",
     "Resources/Images/Pasted image 20240215100515.png",
     "Lessons/Unit 6",
     "Lessons",
-    "Resources",
-    "Welcome.md"
+    "Resources"
   ]
 }
